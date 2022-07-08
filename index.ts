@@ -7,7 +7,7 @@ const port = process.env.PORT || 3000;
 
 app.get("/hola", (req, res) => {
     res.json({
-        message: "hola soy el servidor, heroku",
+        message: "hola soy agus",
     });
 });
 
