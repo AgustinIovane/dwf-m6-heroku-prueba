@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "node": "16.x",
   "scripts": {
     "dev": "ts-node index.ts",
     "test": "ava",
